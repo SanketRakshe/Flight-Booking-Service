@@ -47,4 +47,4 @@ Lets take a look inside the `src` folder
  npm run dev
  ```
 
- Basic setup
+ Basic setup.
